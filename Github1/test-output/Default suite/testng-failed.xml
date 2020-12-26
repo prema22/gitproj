@@ -5,7 +5,7 @@
     <classes>
       <class name="execution.Prgm">
         <methods>
-          <include name="prfg" invocation-numbers="1 2 3 5 6 7"/>
+          <include name="prfg" invocation-numbers="1 2 3 4 5 6"/>
           <include name="closeApplication"/>
           <include name="openApplication"/>
         </methods>
